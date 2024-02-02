@@ -23,6 +23,9 @@ const ListBookComponent = () => {
     navigator("/add-Book");
   }
 
+  function viewDashboard() {
+    navigator("/view-Dashboard");
+  }
   function updateBook(id) {
     navigator(`/update-Book/${id}`);
   }
@@ -97,11 +100,15 @@ const ListBookComponent = () => {
     <div className="container-fluid vh-100 d-flex align-items-center justify-content-center bg-light">
       <div className="card w-75 p-3 rounded shadow">
         <h2 className="text-center text-primary mb-2">Book Library</h2>
-        <div className="d-flex justify-content-end mb-3">
-          <button className="btn btn-success" onClick={addNewBook}>
+        <div className="d-flex justify-content-center mb-3">
+          <button className="btn btn-success mr-2" onClick={addNewBook}>
             + Add New Book
           </button>
+          <button className="btn btn-success m1-2" onClick={viewDashboard}>
+            Dashboard
+          </button>
         </div>
+
         <div>
           <table className="table table-bordered table-light mb-0">
             <thead>

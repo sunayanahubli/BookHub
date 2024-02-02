@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="904c3b25-91a2-45bc-968e-4dae7729d869" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/src/components/ListBookComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/src/components/ListBookComponent.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Content/GitHub_Repos/BookHub/bms-backend",
+    "last_opened_file_path": "C:/Content/Projects/LeetCode",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
