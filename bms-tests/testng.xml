@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Content/GitHub_Repos/BookHub-Tests/Tests">
+        <classes>
+            <class name="E2ETests.SanityTest">
+                <methods>
+                    <include name="LaunchApplication_AssertTitle"/>
+                </methods>
+            </class>
+            <class name="E2ETests.Test01">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+            <class name="E2ETests.Test02">
+                <methods>
+                    <include name="setup2"/>
+                    <include name="login2"/>
+                    <include name="teardown2"/>
+                </methods>
+            </class>
+            <class name="IntegrationTests.ApiTests">
+                <methods>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

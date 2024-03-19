@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="904c3b25-91a2-45bc-968e-4dae7729d869" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunayanahubli/bmsbackend/exception/BadRequestException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunayanahubli/bmsbackend/controller/ReviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunayanahubli/bmsbackend/dto/ReviewDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunayanahubli/bmsbackend/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunayanahubli/bmsbackend/entity/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunayanahubli/bmsbackend/entity/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunayanahubli/bmsbackend/entity/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/src/components/ListBookComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/src/components/ListBookComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms-frontend/src/services/BookService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../bms-frontend/src/services/BookService.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +63,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Content/Projects/LeetCode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Content/GitHub_Repos/redis-cache-management/countries-be-redis-cache/countries-be-redis-cache&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>

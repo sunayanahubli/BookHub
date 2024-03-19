@@ -26,6 +26,10 @@ const ListBookComponent = () => {
   function viewDashboard() {
     navigator("/view-Dashboard");
   }
+
+  function viewReviews() {
+    navigator("/reviews");
+  }
   function updateBook(id) {
     navigator(`/update-Book/${id}`);
   }
@@ -106,6 +110,9 @@ const ListBookComponent = () => {
           </button>
           <button className="btn btn-success m1-2" onClick={viewDashboard}>
             Dashboard
+          </button>
+          <button className="btn btn-success m1-2" onClick={viewReviews}>
+            Reviews
           </button>
         </div>
 

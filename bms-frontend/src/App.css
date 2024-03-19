@@ -7,3 +7,9 @@
   text-align: center;
   color: white;
 }
+.review-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px; /* Adjust the max-width as per your requirement */
+}
